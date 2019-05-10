@@ -1,0 +1,12 @@
+{
+  "$schema": "https://dev.office.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "meter-client-side-solution",
+    "id": "791f291f-15dc-4d0c-8da6-28571b5e9508",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true
+  },
+  "paths": {
+    "zippedPackage": "solution/meter.sppkg"
+  }
+}

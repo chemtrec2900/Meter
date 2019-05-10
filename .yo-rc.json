@@ -1,0 +1,8 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "version": "1.4.1",
+    "libraryName": "meter",
+    "libraryId": "791f291f-15dc-4d0c-8da6-28571b5e9508",
+    "environment": "spo"
+  }
+}
